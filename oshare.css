@@ -238,6 +238,6 @@ footer {
     grid-row-start: footer;
     grid-row-end: bottom;
     text-align: center;
-    background: white;
+    background: rgba(255,255,255,.5);
     padding: 10px 0;
     }
